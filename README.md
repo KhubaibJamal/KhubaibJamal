@@ -22,8 +22,8 @@
 
 - 📫 How to reach me **khubaib.j18@gmail.com**
 
-<h1 align=center >Connect with Me</h1>
-<p align=center >
+<h1 align="center" >Connect with Me</h1>
+<p align="center" >
 
 [![Github Badge](https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/KhubaibJamal?tab=followers)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khubaib-jamal/)
@@ -56,3 +56,13 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
 </a>
 </div>
+
+<h1 align="Center">GitHub Statistics</h1>
+<p align="center">
+  <a href="https://github.com/KhubaibJamal/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khubaib Jamal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KhubaibJamal&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D&Bhide_border=false%22"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhubaibJamal&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhubaibJamal&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420"/>
+  <img alt="Khubaib Jamal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KhubaibJamal&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+</p>
