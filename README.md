@@ -62,7 +62,7 @@
   <a href="https://github.com/KhubaibJamal/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khubaib Jamal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KhubaibJamal&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D&Bhide_border=false%22"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhubaibJamal&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KhubaibJamal&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KhubaibJamal&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="385"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhubaibJamal&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="385" />
   <img alt="Khubaib Jamal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KhubaibJamal&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 </p>
