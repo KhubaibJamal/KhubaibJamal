@@ -68,7 +68,9 @@
 </p>
 
 <h1 align="Center">Visitor's Count & Followers</h1>
+<div align ="Center">
 <a> <img src="https://komarev.com/ghpvc/?username=KhubaibJamal&style=for-the-badge&color=red&label=Profile+Views"
     alt="KhubaibJamal" /> 
 </a><a href="https://github.com/KhubaibJamal?tab=followers"><img src="https://img.shields.io/github/followers/KhubaibJamal?label=Followers&style=for-the-badge&color=red" alt="GitHub Badge">
 </a>
+</div>
