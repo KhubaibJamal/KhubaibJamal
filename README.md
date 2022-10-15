@@ -24,17 +24,11 @@
 
 <h1 align="center" >Connect with Me</h1>
 <div align="center" >
-<a href="https://github.com/KhubaibJamal?tab=followers" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red"  width="100"/>
-</a>
-<a href="https://www.linkedin.com/in/khubaib-jamal/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  width="100"/>
-</a>
 
-<!-- [![Github Badge](https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/KhubaibJamal?tab=followers)&nbsp;
+[![Github Badge](https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/KhubaibJamal?tab=followers)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khubaib-jamal/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khubaib.jamal.18/)
-  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khubaib_jamal/) -->
+  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khubaib_jamal/)
 </div>
 
 <h1 align="center"> Languages and Tools</h1>
@@ -76,6 +70,5 @@
 <h1 align="Center">Visitor's Count & Followers</h1>
 <a> <img src="https://komarev.com/ghpvc/?username=KhubaibJamal&style=for-the-badge&color=red&label=Profile+Views"
     alt="KhubaibJamal" /> 
-</a>
-<a href="https://github.com/KhubaibJamal?tab=followers"><img src="https://img.shields.io/github/followers/KhubaibJamal?label=Followers&style=for-the-badge&color=red" alt="GitHub Badge">
+</a><a href="https://github.com/KhubaibJamal?tab=followers"><img src="https://img.shields.io/github/followers/KhubaibJamal?label=Followers&style=for-the-badge&color=red" alt="GitHub Badge">
 </a>
