@@ -23,13 +23,19 @@
 - 📫 How to reach me **khubaib.j18@gmail.com**
 
 <h1 align="center" >Connect with Me</h1>
-<p align="center" >
+<div align="center" >
+<a href="https://github.com/KhubaibJamal?tab=followers" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red"  width="100"/>
+</a>
+<a href="https://www.linkedin.com/in/khubaib-jamal/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  width="100"/>
+</a>
 
-[![Github Badge](https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/KhubaibJamal?tab=followers)&nbsp;
+<!-- [![Github Badge](https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/KhubaibJamal?tab=followers)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khubaib-jamal/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khubaib.jamal.18/)
-  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khubaib_jamal/)
-</p>
+  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khubaib_jamal/) -->
+</div>
 
 <h1 align="center"> Languages and Tools</h1>
 <div align="center">
@@ -62,7 +68,14 @@
   <a href="https://github.com/KhubaibJamal/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khubaib Jamal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KhubaibJamal&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D&Bhide_border=false%22"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=KhubaibJamal&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhubaibJamal&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhubaibJamal&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhubaibJamal&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" height="200" />
   <img alt="Khubaib Jamal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KhubaibJamal&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 </p>
+
+<h1 align="Center">Visitor's Count & Followers</h1>
+<a> <img src="https://komarev.com/ghpvc/?username=KhubaibJamal&style=for-the-badge&color=red&label=Profile+Views"
+    alt="KhubaibJamal" /> 
+</a>
+<a href="https://github.com/KhubaibJamal?tab=followers"><img src="https://img.shields.io/github/followers/KhubaibJamal?label=Followers&style=for-the-badge&color=red" alt="GitHub Badge">
+</a>
