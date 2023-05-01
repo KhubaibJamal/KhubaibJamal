@@ -18,7 +18,7 @@
     - Cloud Computing.
     - Blockchain.
 
-- 💬 Ask me about **Flutter, Firebase, API's**
+- 💬 Ask me about **Flutter, Firebase**
 
 - 📫 How to reach me **khubaib.j18@gmail.com**
 
@@ -28,7 +28,8 @@
 [![Github Badge](https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/KhubaibJamal?tab=followers)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khubaib-jamal/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khubaib.jamal.18/)
-  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khubaib_jamal/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khubaib_jamal/)
+[![hackerrank Badge](https://img.shields.io/badge/hackerrank-00EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/khubaib_j18)
 </div>
 
 <h1 align="center"> Languages and Tools</h1>
