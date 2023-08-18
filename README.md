@@ -43,9 +43,14 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-</a><a href="https://firebase.google.com/?gclid=CjwKCAjw7p6aBhBiEiwA83fGuuh-OAqFYblOyFz-sd14L3YKVlDJmOFx257naliCGEQ-XISwcSOlGRoCtlYQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer">
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
@@ -53,9 +58,10 @@
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/>
+</a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
-</a>
+
 </div>
 
 <h1 align="Center">GitHub Statistics</h1>
