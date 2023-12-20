@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Mobile Application Developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width = "500"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"/>
+<img align="right" alt="Coding" width = "500"  src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
 
 
 - 🔭 I’m currently working on **Flutter Project**
